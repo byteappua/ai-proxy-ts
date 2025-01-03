@@ -70,6 +70,7 @@ export async function GET(request: Request) {
   //     }
   //     controller.close();
   //   },
+
   // });
 
   // return new NextResponse(stream, {
